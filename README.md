@@ -28,5 +28,5 @@
 * Hybrid技术、React Native
 * Java、C#，有实际的后端开发经验
 * Mysql、Redis、MongoDB
-* Linux
+* Linux、Windows
 
