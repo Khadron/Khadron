@@ -1,16 +1,16 @@
-### Hi there 👋
+# khadron 😃
+```shell
 
-<!--
-**Khadron/Khadron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#   _    _      _ _                __          __        _     _ _ 
+#  | |  | |    | | |               \ \        / /       | |   | | |
+#  | |__| | ___| | | _____      __  \ \  /\  / /__  _ __| | __| | |
+#  |  __  |/ _ \ | |/ _ \ \ /\ / /   \ \/  \/ / _ \| '__| |/ _` | |
+#  | |  | |  __/ | | (_) \ V  V /     \  /\  / (_) | |  | | (_| |_|
+#  |_|  |_|\___|_|_|\___/ \_/\_/       \/  \/ \___/|_|  |_|\__,_(_)
+#                                                                  
+#                                                                  
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 热爱生活，拥抱开源，喜欢分享，随时保持一颗年轻的心
+### 崇尚“大道至简”的技术理念，对技术抱有极高的热情，持续关注业界最新动态
