@@ -26,7 +26,7 @@
 * Webpack、gulp前端构建工具
 * Koa2、Express
 * Hybrid技术、React Native
-* Java、C#
+* Java、C#、Python
 * Mysql、Redis、MongoDB
 * Linux、Windows
 
