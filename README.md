@@ -26,7 +26,7 @@
 * Webpack、gulp前端构建工具
 * Koa2、Express
 * Hybrid技术、React Native
-* Java、C#，有实际的后端开发经验
+* Java、C#
 * Mysql、Redis、MongoDB
 * Linux、Windows
 
