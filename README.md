@@ -1,11 +1,10 @@
 ###  :sunny: khadron
 
-### 一位“有情怀"的工程师:sunglasses:，坚信技术改变世界!:
+### 有小小的代码“洁癖”和优雅实现的“强迫症”，追求接近“完美”的技术解决方案:sunglasses:，坚信技术改变世界!:
 #### 拥抱开源，喜欢分享，随时保持一颗年轻的心
 #### 崇尚“大道至简”的技术理念，具备敏锐的“技术嗅觉”，持续关注业界最新动态
 #### 目前关注大前端领域，Node.js
-### :star2: 我的博客
-[khadron](https://www.cnblogs.com/Khadron/)
+### :star2: 我的博客 [khadron](https://www.cnblogs.com/Khadron/)
 ### :star2: 我的技能栈
 * JavaScript、Node.js及HTML/HTML5、CSS
 * ES6、TypeScript、前端性能优化
